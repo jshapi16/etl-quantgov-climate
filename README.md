@@ -71,6 +71,7 @@ After cleaning the datasets and selecting the most relevant columns for our data
 *FIGURE 7: Example query from regulations table*
 
 **Graph**
+
 The final graph indicates that regulations and natural disasters show a similar positive trend. 
 ![image](https://github.com/jshapi16/etl-quantgov-climate/blob/main/images/reg_disaster_graph.png?raw=true)
 
